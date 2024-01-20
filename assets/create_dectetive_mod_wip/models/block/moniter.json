@@ -1,0 +1,18 @@
+{
+  "parent": "create_dectetive_mod_wip:custom/computer",
+  "textures": {
+    "all": "create_dectetive_mod_wip:blocks/screen",
+    "particle": "create_dectetive_mod_wip:blocks/screen",
+    "0": "create_dectetive_mod_wip:blocks/screen",
+    "1": "create_dectetive_mod_wip:blocks/side",
+    "2": "create_dectetive_mod_wip:blocks/side2",
+    "3": "create_dectetive_mod_wip:blocks/top",
+    "4": "create_dectetive_mod_wip:blocks/bottom2",
+    "5": "create_dectetive_mod_wip:blocks/back",
+    "6": "create_dectetive_mod_wip:blocks/side3",
+    "missing": "create_dectetive_mod_wip:blocks/bottom",
+    "8": "create_dectetive_mod_wip:blocks/back2",
+    "9": "create_dectetive_mod_wip:blocks/top2"
+  },
+  "render_type": "solid"
+}
