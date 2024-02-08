@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_dectetive_mod:block/simple_screen"
+    },
+    "facing=east": {
+      "model": "create_dectetive_mod:block/simple_screen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_dectetive_mod:block/simple_screen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_dectetive_mod:block/simple_screen",
+      "y": 270
+    }
+  }
+}

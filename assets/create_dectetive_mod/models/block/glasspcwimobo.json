@@ -1,0 +1,11 @@
+{
+  "parent": "create_dectetive_mod:custom/pc_with_mobo",
+  "textures": {
+    "all": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "particle": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "0": "create_dectetive_mod:blocks/color3",
+    "1": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "missing": "create_dectetive_mod:blocks/screenshot_2024-01-21_at_10.26.14_am"
+  },
+  "render_type": "solid"
+}

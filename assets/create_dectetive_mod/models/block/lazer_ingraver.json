@@ -1,0 +1,12 @@
+{
+  "parent": "create_dectetive_mod:custom/block",
+  "textures": {
+    "all": "create_dectetive_mod:blocks/andesite_casing",
+    "particle": "create_dectetive_mod:blocks/andesite_casing",
+    "0": "create_dectetive_mod:blocks/andesite_casing",
+    "1": "create_dectetive_mod:blocks/andesite_casing",
+    "3": "create_dectetive_mod:blocks/andesite_casing",
+    "missing": "create_dectetive_mod:blocks/andesite_casing"
+  },
+  "render_type": "solid"
+}

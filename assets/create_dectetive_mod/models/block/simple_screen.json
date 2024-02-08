@@ -1,0 +1,12 @@
+{
+  "parent": "create_dectetive_mod:custom/simple_screen",
+  "textures": {
+    "all": "create_dectetive_mod:blocks/color14",
+    "particle": "create_dectetive_mod:blocks/color14",
+    "0": "create_dectetive_mod:blocks/color14",
+    "1": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "4": "create_dectetive_mod:blocks/color8",
+    "missing": "create_dectetive_mod:blocks/color3"
+  },
+  "render_type": "solid"
+}
