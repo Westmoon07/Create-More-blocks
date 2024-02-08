@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "create_dectetive_mod:block/incompleate_pc"
+    },
+    "facing=east": {
+      "model": "create_dectetive_mod:block/incompleate_pc",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "create_dectetive_mod:block/incompleate_pc",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "create_dectetive_mod:block/incompleate_pc",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "create_dectetive_mod:custom/pc_case_glass",
+  "textures": {
+    "all": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "particle": "create_dectetive_mod:blocks/industrial_iron_block_top",
+    "1": "create_dectetive_mod:blocks/industrial_iron_block_top"
+  },
+  "render_type": "solid"
+}
