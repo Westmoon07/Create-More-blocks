@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "createindustrial_iron_block"
+  },
+  "result": {
+    "item": "create_dectetive_mod_wip:glass_case",
+    "count": 1
+  }
+}

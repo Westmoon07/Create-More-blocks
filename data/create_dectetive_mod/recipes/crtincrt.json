@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create_dectetive_mod:incompleat_crt"
+    },
+    {
+      "item": "create_dectetive_mod:compleat_board"
+    }
+  ],
+  "result": {
+    "item": "create_dectetive_mod:crt_inside",
+    "count": 1
+  }
+}

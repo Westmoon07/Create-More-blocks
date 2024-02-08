@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa ",
+    "bbb",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "create_dectetive_mod:copper_wire"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "create_dectetive_mod:copper_beam",
+    "count": 1
+  }
+}

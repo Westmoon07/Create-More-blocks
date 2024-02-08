@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="create_dectetive_mod"
+version="0.1.1"
+displayName="create dectetive mod (wip)"
+displayURL="https://twitter.com/westmoon07"
+credits="credits to Mcreator, Simibubi, Westmoon05 twitter.com/westmoon07 and the Forge team!   "
+authors="Westmoon05 twitter.com/westmoon07"
+description="add pc like dectetive blocks to create"
+
+[[dependencies.create_dectetive_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

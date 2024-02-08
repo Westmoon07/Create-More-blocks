@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "create_dectetive_mod:wire"
+    },
+    "b": {
+      "item": "create_dectetive_mod:lcd_screen"
+    },
+    "c": {
+      "item": "create_dectetive_mod:compleat_board"
+    }
+  },
+  "result": {
+    "item": "create_dectetive_mod:simple_screen",
+    "count": 1
+  }
+}

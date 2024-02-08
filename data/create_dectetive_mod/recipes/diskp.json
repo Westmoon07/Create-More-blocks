@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:powder_snow_bucket"
+    },
+    "b": {
+      "item": "create_dectetive_mod:wire"
+    },
+    "c": {
+      "item": "minecraft:music_disc_chirp"
+    }
+  },
+  "result": {
+    "item": "create_dectetive_mod:cold_pizza_parlor",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "create_dectetive_mod:crt_inside"
+    }
+  },
+  "result": {
+    "item": "create_dectetive_mod:moniter",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:item/iron_sheet"
+    },
+    {
+      "tag": "minecraft:lime_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_dectetive_mod_wip:items/green_bord"
+    }
+  ]
+}
